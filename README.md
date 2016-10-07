@@ -3,10 +3,8 @@ This is test project!
     
 
 
-    欢迎到访  
-    很高兴见到您  
-    祝您，早上好，中午好，下午好，晚安
-    
-thank `you` 我是`刘荣达`
+[我的博客](http://www.baidu.com "提示")
 
-[我的博客](www.ronda.com)
+* 姓名：刘荣达
+* 性别：男
+* 职业：程序员
